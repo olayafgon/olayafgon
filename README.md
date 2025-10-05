@@ -9,9 +9,5 @@ I’m a **Data Scientist** with a background in **Physics**, working mainly in *
 - **Cloud**: GCP, AWS
 - **Other tools**: Git, Docker 
 
-## Stats
-![olayafgon's GitHub stats](https://github-readme-stats.vercel.app/api?username=olayafgon&show_icons=true&theme=dracula&count_private=true)
-
-
 ## Languages 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olayafgon&layout=compact&hide=css,html,handlebars)
